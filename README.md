@@ -53,7 +53,7 @@ Create a React front-end with a Rails back-end and connect them to display a ran
 
 ### Link to Hello-React-Frontend App
 
-[Click here to visit the link](https://github.com/harshi0102/hello-react-frontend.git)
+[Click here to visit the link](https://github.com/harshi0102/hello-react-frontend/tree/react-frontend)
 
 ## :computer: Getting Started <a name="getting-started"></a>
 
